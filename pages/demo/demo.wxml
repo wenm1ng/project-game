@@ -1,0 +1,9 @@
+<!--pages/demo/demo.wxml-->
+<text user-select decode>pages/demo/demo.wxml &nbsp;</text>
+<view hover-class="wenming">wenming</view>
+<swiper>
+  <swiper-item>
+    <image lazy-load="true" src="//aecpm.alicdn.com/simba/img/TB1X6uHLVXXXXcCXVXXSutbFXXX.jpg"/>
+    <image lazy-load="true" src="//img.alicdn.com/tfs/TB1IQPsEFzqK1RjSZFoXXbfcXXa-502-380.jpg_240x240q90.jpg"/>
+  </swiper-item>
+</swiper>
